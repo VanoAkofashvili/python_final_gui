@@ -1,0 +1,8 @@
+downloaded/
+tstt/
+data/data.csv
+data/schema.csv
+venv/
+.idea/
+__pycache__/
+test.py
